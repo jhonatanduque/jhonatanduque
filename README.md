@@ -6,7 +6,7 @@ Sou Técnico em Quimica pelo IFRJ e Bacharel em Administração pelo CEFET/RJ. A
 
 🗺️ Sou paixonado por trilhas, pedalar e estar em contato com a natureza;
 
-🌱 Me considero um entusiasta da educação, além de técnologia eu também estudo Sustentabilidade e ESG.
+🌱 Me considero um entusiasta da educação, além de desenvolvimento Front e Full Stack também estudo Analise de Dados.
 
 💻 No momento me aperfeiçoando em:
 
