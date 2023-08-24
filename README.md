@@ -1,10 +1,8 @@
-<h1> Olá, meu nome é Jhonatan! </h1>
+<h1> Olá, aqui é o Jhon! </h1>
 
-Sou Técnico em Quimica pelo IFRJ e Bacharel em Administração pelo CEFET/RJ. Atualmente estudo Front-End na Vai na Web e Full Stack JavaScript na OneBitCode.
+Sou Técnico em Quimica pelo IFRJ e Bacharel em Administração pelo CEFET/RJ. Atualmente estudo Front-End na Vai na Web e Full Stack na OneBitCode.
 
-✨ Fique avontade para me chamar de Jhon!
-
-🗺️ Sou paixonado por trilhas, pedalar e estar em contato com a natureza;
+🗺️ Sou apaixonado por trilhas, pedalar e estar em contato com a natureza;
 
 🌱 Me considero um entusiasta da educação, além de desenvolvimento Front e Full Stack também estudo Analise de Dados.
 
